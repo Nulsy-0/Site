@@ -1,0 +1,8 @@
+S3:
+    Access key ID:
+    ae6ea4cbf51a73ac370ba4fe63328b8e
+
+    Secret access key:
+    38f5f1aa298f48fcfa6ef460638cb64a44e9a03653e6c93864c181bfa12f38c9
+
+https://advcckjutdbwhtmugpbn.supabase.co/storage/v1/object/public/imgs/imgs-imagem.gif
